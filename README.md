@@ -3,7 +3,7 @@
 > [!NOTE]
 > Most of these datasets have detailed documentation on my [Kaggle profile](https://www.kaggle.com/ethanwitek).
 
-A collection of datasets from Chess.com (with example notebooks). Below, you can find a list of all datasets, a short description for each, and a link to the dataset's Kaggle page (if provided):
+A collection of datasets from Chess.com with example notebooks. Below, you can find a list of all datasets, a short description for each, and a link to the dataset's Kaggle page (if provided):
 
 ---
 
