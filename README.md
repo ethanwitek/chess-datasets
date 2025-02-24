@@ -7,6 +7,6 @@ A collection of datasets from Chess.com with example notebooks. Below, you can f
 
 ---
 
-- #### `gm-rated-2024.csv`
+- #### `gm-rated-2024`
   - A dataset containing all Chess.com matches between two Grandmasters on the platform in 2024.
   - [Kaggle Link](https://www.kaggle.com/datasets/ethanwitek/chess-com-grandmaster-matches-2024)
